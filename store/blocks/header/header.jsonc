@@ -22,15 +22,10 @@
   },
 
   "flex-layout.row#2-desktop": {
-    "children": ["notification.bar#home"],
-    "props": {
-      "fullWidth": "true"
-    }
+    "children": ["notification.bar#home"]
   },
   "notification.bar#home": {
-    "props": {
-      "content": "Ricardo Martins Carvalho"
-    }
+
   },
   "flex-layout.row#3-desktop": {
     "props": {
